@@ -29,13 +29,13 @@ This is a hands-on project, perfect for:
 | **License** | MIT |
 
 ## 📁 Repository Structure
-
+```
 Iris_Flower_Classification-Project/
 │
 ├── Iris_flower_classification.ipynb # Main Jupyter notebook with complete project
 ├── requirements.txt # List of required Python packages
 └── README.md # This file
-
+```
 
 ## 🚀 Getting Started
 
@@ -47,9 +47,9 @@ Iris_Flower_Classification-Project/
 ### Installation & Usage
 
 **Clone the repository**
-    ```bash
+```bash
     git clone https://github.com/InfinitePraveen/Iris_Flower_Classification-Project.git
-    cd Iris_Flower_Classification-Project```
-    
+    cd Iris_Flower_Classification-Project
+``` 
 This README provides a clear, professional structure that matches your other repositories, defines the project's purpose, and includes the MIT License information you requested. The description is kept short and focused for the GitHub "About" section.
 
