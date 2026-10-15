@@ -49,7 +49,7 @@ Iris_Flower_Classification-Project/
 **Clone the repository**
     ```bash
     git clone https://github.com/InfinitePraveen/Iris_Flower_Classification-Project.git
-    cd Iris_Flower_Classification-Project
-    ```
+    cd Iris_Flower_Classification-Project```
+    
 This README provides a clear, professional structure that matches your other repositories, defines the project's purpose, and includes the MIT License information you requested. The description is kept short and focused for the GitHub "About" section.
 
