@@ -34,6 +34,7 @@ Iris_Flower_Classification-Project/
 │
 ├── Iris_flower_classification.ipynb # Main Jupyter notebook with complete project
 ├── requirements.txt # List of required Python packages
+├── LICENSE.md # License file
 └── README.md # This file
 ```
 
